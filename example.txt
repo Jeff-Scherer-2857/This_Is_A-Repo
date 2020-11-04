@@ -1,1 +1,1 @@
-Hey guys, this is an example of changing things
+Hey guys, this is an example of changing things on two files at the same time
