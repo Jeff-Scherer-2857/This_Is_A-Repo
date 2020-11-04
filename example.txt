@@ -1,1 +1,3 @@
-Hey guys, this is an example of changing things on two files at the same time
+Hey guys, this is an example of changing things on two files at the same time.
+
+Hey, did you remember to Pull the repository before your commmit??
