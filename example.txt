@@ -1,1 +1,1 @@
-Hey guys, this is how you use GIT
+Hey guys, this is an example of changing things
