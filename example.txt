@@ -1,3 +1,5 @@
 Hey guys, this is an example of changing things on two files at the same time.
 
 Hey, did you remember to Pull the repository before your commmit??
+
+Yeah, I definitely pulled the origin. This should be the most up to date!
